@@ -1,6 +1,6 @@
 # Amazon Test Automation Project
  
-#### Amazon sitesi üzerinde konuşulan test adımlarından oluşan proje. Adımlar aşağıdaki gibidir,
+#### Amazon sitesi üzerinde koşulan test otomasyon projesi. Adımlar aşağıdaki gibidir,
 - Amazon.com sayfası açılır.
 - Arama kutusuna 'airpods' yazılır.
 - Search butonuna tıklanır.
